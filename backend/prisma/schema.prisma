@@ -26,3 +26,5 @@ model User {
   posts     Post[]
 
 }
+
+
